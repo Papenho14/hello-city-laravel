@@ -9,6 +9,6 @@
     <body>
        <p>Built with &hearts; by PAPE SEYDOU DIA.</p>
        <p><a href="/">Revenir vers la page d'accueil.</a></p>
-        <footer><p>&copy; Copyright {{date("Y")}}. &middot;<a href="about-us">About Us</a></p></footer>
+        <footer><p>&copy; Copyright {{date("Y")}}. &middot;</p></footer>
     </body>
 </html>
